@@ -27,7 +27,7 @@ Faster version (with smaller architecture)
 Open Source: https://pjreddie.com/darknet/yolo/    
 
 Limitation -      
-The model struggles with small objects that appear in groups, such as flocks of birds.     
+The model struggles with small objects that appear in groups.     
 
 ## Acknowledgements 
 Resources:    
